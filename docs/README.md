@@ -21,7 +21,7 @@ Demais diretrizes constam no Moodle.
 |Matrícula | Aluno |
 | -- | -- |
 | 23/1029270  |  Pedro Henrique Martins Silva |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 24/1012329 |  Luiz Henrique Pallavicini |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
