@@ -1,7 +1,5 @@
 # Projeto Governo Eletrônico
 
-> Documentação do Grupo 5 — Arquitetura e Desenho de Software, Universidade de Brasília, 2026.2.
-
 | Informação | Descrição |
 | --- | --- |
 | Disciplina | FGA0208 — Arquitetura e Desenho de Software |
@@ -31,15 +29,16 @@ Nesta primeira entrega, o trabalho concentra-se na compreensão e representaçã
 Os relatórios estão organizados por subequipe e seguem três focos:
 
 1. **Artefatos generalistas e NFR Framework:** Mapas Mentais ou Rich Pictures e SIGs de requisitos não funcionais.
-2. **Engenharia reversa e BPMN:** reconstrução e formalização de fluxos observados.
-3. **IA generativa:** lições aprendidas e análise crítica individual do uso dessas ferramentas.
+2. **Engenharia reversa e BPMN:** reconstrução e formalização de fluxos observados como o [BPMN do Fluxo de Busca no Portal](BPMN - Fluxo de Busca no Portal.svg).
+3. **IA generativa:** lições aprendidas e análise crítica individual do uso dessas ferramentas como o [Rich Picture do Fluxo de Busca no Portal Informa.BR](../Imagens/Rich%20Picture.svg).
 
 A seção [Desenho de Software (Base)](/Base/1.Base.md) apresenta os critérios da entrega e conduz aos relatórios. As [participações](/Base/1.2.ParticipacoesBase.md) registram as contribuições dos integrantes, enquanto as [iniciativas extras](/Base/1.3.IniciativasExtras.md) documentam a Design Sprint realizada pelo grupo.
 
-## Como navegar
+## Há algo a ser executado?
 
-Use o menu lateral para acessar o contexto do projeto, os relatórios das subequipes, as participações e as iniciativas complementares. Os diagramas podem ser abertos diretamente para visualização em tamanho integral.
+( ) SIM
 
-## Colaboração
+(x) NÃO
 
-Antes de contribuir, leia o [guia de contribuição](https://github.com/UnBArqDsw2026-2-Turma02/2026.2-T02-_G5_ProjetoGovernoEletronico_Entrega_01/blob/main/CONTRIBUTING.md) e o [Código de Conduta](https://github.com/UnBArqDsw2026-2-Turma02/2026.2-T02-_G5_ProjetoGovernoEletronico_Entrega_01/blob/main/CODE_OF_CONDUCT.md).
+Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+Informações Complementares
