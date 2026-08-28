@@ -29,7 +29,7 @@ Nesta primeira entrega, o trabalho concentra-se na compreensão e representaçã
 Os relatórios estão organizados por subequipe e seguem três focos:
 
 1. **Artefatos generalistas e NFR Framework:** Mapas Mentais ou Rich Pictures e SIGs de requisitos não funcionais.
-2. **Engenharia reversa e BPMN:** reconstrução e formalização de fluxos observados como o [BPMN do Fluxo de Busca no Portal](BPMN - Fluxo de Busca no Portal.svg).
+2. **Engenharia reversa e BPMN:** reconstrução e formalização de fluxos observados como o [BPMN do Fluxo de Busca no Portal]((../Imagens/BPMN%20-%20Fluxo%20de%20Busca%20no%20Portal.svg)).
 3. **IA generativa:** lições aprendidas e análise crítica individual do uso dessas ferramentas como o [Rich Picture do Fluxo de Busca no Portal Informa.BR](../Imagens/Rich%20Picture.svg).
 
 A seção [Desenho de Software (Base)](/Base/1.Base.md) apresenta os critérios da entrega e conduz aos relatórios. As [participações](/Base/1.2.ParticipacoesBase.md) registram as contribuições dos integrantes, enquanto as [iniciativas extras](/Base/1.3.IniciativasExtras.md) documentam a Design Sprint realizada pelo grupo.
