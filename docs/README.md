@@ -1,41 +1,45 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
+# Projeto Governo Eletrônico
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
+> Documentação do Grupo 5 — Arquitetura e Desenho de Software, Universidade de Brasília, 2026.2.
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
+| Informação | Descrição |
+| --- | --- |
+| Disciplina | FGA0208 — Arquitetura e Desenho de Software |
+| Turma | 02 |
+| Grupo | 05 |
+| Entrega | 01 — Desenho de Software (Base) |
+| Domínio | Governo eletrônico e acesso à informação pública |
+| Ênfases | Privacidade de dados, usabilidade e experiência do usuário |
 
-**!! *Exemplo de título correto: 2026.2(T02)_G1_ProjetoComercioEletronico_Entrega_01*. !!** 
- 
- (Apague esses comentários)
+## Sobre o projeto
 
-# Nome do Projeto
+O Projeto Governo Eletrônico estuda como cidadãos encontram informações públicas e formalizam pedidos de acesso à informação. A equipe utiliza um portal governamental existente como inspiração para reconhecer atores, regras de negócio, pontos de atrito e requisitos de qualidade, sem reproduzir sua identidade como solução final.
 
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: 05<br>
-**Entrega**: 01<br>
+Nesta primeira entrega, o trabalho concentra-se na compreensão e representação do domínio. A documentação reúne artefatos generalistas, NFR Framework, engenharia reversa, BPMN e reflexões críticas sobre IA generativa. Esses resultados estabelecem uma base rastreável para as decisões arquiteturais das próximas etapas.
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 23/1029270  |  Pedro Henrique Martins Silva |
-| 24/1012329 |  Luiz Henrique Pallavicini |
+## Objetivos
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+- compreender a jornada do cidadão no acesso à informação pública;
+- identificar stakeholders, necessidades, conflitos e oportunidades de melhoria;
+- analisar requisitos não funcionais, sobretudo privacidade e usabilidade;
+- recuperar e modelar processos existentes com engenharia reversa e BPMN;
+- documentar decisões, referências e contribuições de forma transparente;
+- avaliar criticamente os benefícios e limitações da IA generativa no trabalho de modelagem.
 
-## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+## Artefatos da Entrega 01
 
-## Há algo a ser executado?
+Os relatórios estão organizados por subequipe e seguem três focos:
 
-( ) SIM
+1. **Artefatos generalistas e NFR Framework:** Mapas Mentais ou Rich Pictures e SIGs de requisitos não funcionais.
+2. **Engenharia reversa e BPMN:** reconstrução e formalização de fluxos observados.
+3. **IA generativa:** lições aprendidas e análise crítica individual do uso dessas ferramentas.
 
-( ) NÃO
+A seção [Desenho de Software (Base)](/Base/1.Base.md) apresenta os critérios da entrega e conduz aos relatórios. As [participações](/Base/1.2.ParticipacoesBase.md) registram as contribuições dos integrantes, enquanto as [iniciativas extras](/Base/1.3.IniciativasExtras.md) documentam a Design Sprint realizada pelo grupo.
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+## Como navegar
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Use o menu lateral para acessar o contexto do projeto, os relatórios das subequipes, as participações e as iniciativas complementares. Os diagramas podem ser abertos diretamente para visualização em tamanho integral.
+
+## Colaboração
+
+Antes de contribuir, leia o [guia de contribuição](https://github.com/UnBArqDsw2026-2-Turma02/2026.2-T02-_G5_ProjetoGovernoEletronico_Entrega_01/blob/main/CONTRIBUTING.md) e o [Código de Conduta](https://github.com/UnBArqDsw2026-2-Turma02/2026.2-T02-_G5_ProjetoGovernoEletronico_Entrega_01/blob/main/CODE_OF_CONDUCT.md).
